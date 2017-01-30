@@ -544,6 +544,14 @@ h6,
 #msg-box6-x .lead p {
   color: #fff;
 }
+#header3-1t .mbr-section-title,
+#header3-1t .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1v .mbr-section-title,
+#header3-1v .mbr-section-subtitle {
+  text-align: center;
+}
 #ext_menu-f .hide-buttons .nav-btn {
   display: none !important;
 }
